@@ -14,12 +14,12 @@ import math
 # a=56
 # print(math.log(a))
 # #output= 4.025
-#
 
 
-a=40.56
+
+a=45.56
 print(math.floor(a))
-#output= 40
+#output= 45
 
 l=[4,3,5,6,7]
 print(math.fsum(l))
